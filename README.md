@@ -1,4 +1,4 @@
-# DOMRander
+# dom-rander
 
 ![Version](https://img.shields.io/badge/version-1.0.0-black)
 ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
