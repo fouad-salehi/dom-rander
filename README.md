@@ -1,12 +1,12 @@
 # dom-rander
 
-![Version](https://img.shields.io/badge/version-1.0.0-black)
-![Language](https://img.shields.io/badge/language-JavaScript-yellow)
-![Platform](https://img.shields.io/badge/platform-Browser-blue)
-![Dependencies](https://img.shields.io/badge/dependencies-None-success)
-![RTL](https://img.shields.io/badge/RTL-Persian%20%2F%20Arabic-purple)
-![Canvas](https://img.shields.io/badge/output-HTML%20Canvas-orange)
-![License](https://img.shields.io/badge/license-Custom%20%2F%20Proprietary-red)
+![Version](https://img.shields.io/badge/version-1.0.0-000000?style=for-the-badge)
+![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Platform](https://img.shields.io/badge/platform-Browser-0EA5E9?style=for-the-badge)
+![Dependencies](https://img.shields.io/badge/dependencies-None-22C55E?style=for-the-badge)
+![RTL](https://img.shields.io/badge/RTL-Persian%20%2F%20Arabic-8B5CF6?style=for-the-badge)
+![Canvas](https://img.shields.io/badge/output-HTML%20Canvas-F97316?style=for-the-badge&logo=html5&logoColor=white)
+![License](https://img.shields.io/badge/license-Custom%20%2F%20Proprietary-DC2626?style=for-the-badge)
 
 <img width="1671" height="836" alt="DOMRander - A lightweight, dependency-free DOM" src="https://github.com/user-attachments/assets/400673c6-6cf2-4a9c-b387-90d9a71da932" />
 
